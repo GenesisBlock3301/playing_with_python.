@@ -1,0 +1,11 @@
+[
+    {
+        "employee_id": 2,
+        "employee_name": "Protiva",
+        "address": "Jamalpur",
+        "phone_number": "950358",
+        "salary": 15000.0,
+        "payment": 13000.0,
+        "salary_due": 2000.0
+    }
+]
